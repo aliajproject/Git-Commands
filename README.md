@@ -22,7 +22,7 @@ Git ləqəbləri ilə maraqlanırsınızsa, burada mövcud olan '.bash_profile'-
 
 
 <details>
-<summary><b> ### Əsas Snapshot:</b></summary> 
+<summary><b size="26">Əsas Snapshot:</b></summary> 
 
 | Komut | Açıklama |
 | ------- | ----------- |
