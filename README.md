@@ -1,30 +1,30 @@
-Git Komutları
+Gedin Əmrləri
 ============
 
-_Sık kullanılan Git komutları listesi_
+_Tez-tez istifadə olunan Git əmrlərinin siyahısı_
 
-Git takma adlarıyla ilgileniyorsanız, burada bulunan '.bash_profile'ine bir göz atın: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+Git ləqəbləri ilə maraqlanırsınızsa, burada mövcud olan '.bash_profile'-ə nəzər salın: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
 
-*Çeviride önemli İngilizce kelimelerinin aslı korunmuş olup, "repository" kelimesi "repo" olarak, "local" kelimesi "yerel" olarak, "remote" kelimesi "uzak" olarak çevrilmiştir. Bunları göz önünde bulundurarak dokümandan istifade edebilirsiniz."
+*Tərcümədə mühüm ingiliscə sözlərin orijinalı qorunub saxlanılıb, “repository” sözü “repo”, “local” sözü “local”, “remote” sözü “remote” kimi tərcümə edilib. "uzaq". Bunları nəzərə alaraq sənəddən yararlana bilərsiniz”.
 
 ---
 
 ### Proje Alma ve Oluşturma
 
-| Komut | Açıklama |
+| Əmr | İzahat |
 | ------- | ----------- |
-| `git init` | Yerel bir Git reposunu başlat |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Uzak bir reponun yerel bir kopyasını oluştur |
+| ```git init``` | Yerli Git repo işə salın |
+| ```git clone ssh://git@github.com/[username]/[repository-name].git``` | Uzak bir reponun yerel bir kopyasını oluştur |
 
 ### Temel Anlık Görüntü
 
 | Komut | Açıklama |
 | ------- | ----------- |
-| `git status` | Durumu kontrol et |
-| `git add [file-name.txt]` | Hazırlama alanına bir dosya ekle |
-| `git add -A` | Tüm yeni ve değiştirilen dosyaları hazırlama alanına ekleyin |
-| `git commit -m "[commit message]"` | Değişiklikleri commit et (açıkla) |
-| `git rm -r [file-name.txt]` | Dosyayı (ya da dizini) sil |
+| ```git status``` | Durumu kontrol et |
+| ```git add [file-name.txt]``` | Hazırlama alanına bir dosya ekle |
+| ```git add -A``` | Tüm yeni ve değiştirilen dosyaları hazırlama alanına ekleyin |
+| ```git commit -m "[commit message]"``` | Değişiklikleri commit et (açıkla) |
+| ```git rm -r [file-name.txt]``` | Dosyayı (ya da dizini) sil |
 
 ### Dallanma ve Birleşme
 
