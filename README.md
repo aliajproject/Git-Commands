@@ -3,11 +3,11 @@ Git Komutları
 
 _Sık kullanılan Git komutları listesi_
 
-*Git takma adlarıyla ilgileniyorsanız, burada bulunan '.bash_profile'ine bir göz atın: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+Git takma adlarıyla ilgileniyorsanız, burada bulunan '.bash_profile'ine bir göz atın: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
 
 *Çeviride önemli İngilizce kelimelerinin aslı korunmuş olup, "repository" kelimesi "repo" olarak, "local" kelimesi "yerel" olarak, "remote" kelimesi "uzak" olarak çevrilmiştir. Bunları göz önünde bulundurarak dokümandan istifade edebilirsiniz."
 
---
+---
 
 ### Proje Alma ve Oluşturma
 
