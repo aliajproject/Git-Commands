@@ -9,14 +9,20 @@ Git ləqəbləri ilə maraqlanırsınızsa, burada mövcud olan '.bash_profile'-
 
 ---
 
-### Proje Alma ve Oluşturma
+<details>
+<summary><b>Layihələrin idxalı və yaradılması:</b></summary> 
 
 | Əmr | İzahat |
 | ------- | ----------- |
 | ```git init``` | Yerli Git repo işə salın |
 | ```git clone ssh://git@github.com/[username]/[repository-name].git``` | Uzak bir reponun yerel bir kopyasını oluştur |
+</details>
 
-### Temel Anlık Görüntü
+
+
+
+<details>
+<summary><b>Əsas Snapshot:</b></summary> 
 
 | Komut | Açıklama |
 | ------- | ----------- |
@@ -25,7 +31,7 @@ Git ləqəbləri ilə maraqlanırsınızsa, burada mövcud olan '.bash_profile'-
 | ```git add -A``` | Tüm yeni ve değiştirilen dosyaları hazırlama alanına ekleyin |
 | ```git commit -m "[commit message]"``` | Değişiklikleri commit et (açıkla) |
 | ```git rm -r [file-name.txt]``` | Dosyayı (ya da dizini) sil |
-
+</details>
 ### Dallanma ve Birleşme
 
 | Komut | Açıklama |
