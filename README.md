@@ -1,4 +1,4 @@
-Gedin Əmrləri
+Git'in Əmrləri
 ============
 
 _Tez-tez istifadə olunan Git əmrlərinin siyahısı_
