@@ -15,7 +15,7 @@ Git ləqəbləri ilə maraqlanırsınızsa, burada mövcud olan '.bash_profile'-
 | Əmr | İzahat |
 | ------- | ----------- |
 | ```git init``` | Yerli Git repo-nu buraxın |
-| ```git clone ssh://git@github.com/[username]/[repository-name].git``` | Uzaqdan repo-nun yerli surətini yaradın |
+| ```git clone ssh://git@github.com/[username]/[repository-name].git``` | Uzaqdan repo-nun yerli surətini yaradın  |
 </details>
 
 
