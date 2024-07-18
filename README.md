@@ -1,16 +1,6 @@
 Git Komutları
 ============
 
-## Çevrilmiş Versiyonlar
-- [English version (original)](README.md)
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [বাংলা সংস্করণ](READMEbn.md)
-- [हिन्दी अनुवाद](READMEhi.md)
-- [العربية](READMEar.md)
-
-___
-
 _Sık kullanılan Git komutları listesi_
 
 *Git takma adlarıyla ilgileniyorsanız, burada bulunan '.bash_profile'ine bir göz atın: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
